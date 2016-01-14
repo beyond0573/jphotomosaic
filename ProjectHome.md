@@ -1,0 +1,2 @@
+A Photomosaic creator developed in java. The objective of this project is to test several techniques for creating photomosaic.
+For example, for speed conveniency, we use an Antipole-Tree data structure. Besides normal photomosaic's we would like to make fractal, QT and pluzzle photomosaic's!.
